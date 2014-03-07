@@ -1,0 +1,32 @@
+html *
+{
+   font-size: 1em !important;
+   font-family: Verdana, Helvetica;
+}
+.menu{
+    border:1px solid #ccc;
+    border-width:1px 0;
+    list-style:none;
+    margin:0;
+    padding:0;
+    text-align:center;
+}
+.menu li{
+    display:inline;
+}
+.menu a{
+    display:inline-block;
+    padding:10px;
+}
+a{
+    color:#345a8a;
+    text-decoration:none;
+    font-weight:bold;
+}
+a:hover{
+    text-decoration:underline;
+}
+.zusammenarbeit{
+    margin-top:200px;
+    text-align:center;
+}
